@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f03a705-5ac6-4fdb-8d95-7c372328c768" name="Changes" comment="" />
+    <list default="true" id="0f03a705-5ac6-4fdb-8d95-7c372328c768" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/zad1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/zad1/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732464843316</updated>
-      <workItem from="1732464844625" duration="957000" />
+      <workItem from="1732464844625" duration="1212000" />
     </task>
     <servers />
   </component>
