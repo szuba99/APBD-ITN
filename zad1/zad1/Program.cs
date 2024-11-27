@@ -9,14 +9,15 @@ class Program
             throw new ArgumentException("Tablica nie może być pusta.");
         }
 
-        double sum = 0;
+        double aggregate = 0; 
         foreach (var number in numbers)
         {
-            sum += number;
+            aggregate += number; 
         }
 
-        return sum / numbers.Length;
+        return aggregate / numbers.Length;
     }
+
     
     static int GetMaxValue(int[] numbers)
     {

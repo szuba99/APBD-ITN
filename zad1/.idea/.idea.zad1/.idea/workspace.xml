@@ -35,7 +35,7 @@
     ".NET Project.zad1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature-max",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732464843316</updated>
       <workItem from="1732464844625" duration="2364000" />
+      <workItem from="1732741996914" duration="685000" />
     </task>
     <servers />
   </component>
