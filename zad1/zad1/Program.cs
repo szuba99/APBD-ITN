@@ -9,13 +9,13 @@ class Program
             throw new ArgumentException("Tablica nie może być pusta.");
         }
 
-        double aggregate = 0; 
+        double total = 0;
         foreach (var number in numbers)
         {
-            aggregate += number; 
+            total += number;
         }
 
-        return aggregate / numbers.Length;
+        return total / numbers.Length;
     }
 
     
